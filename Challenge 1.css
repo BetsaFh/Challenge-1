@@ -1,0 +1,59 @@
+body {
+  padding: 5%;
+  font-family: 'Roboto', sans-serif;
+  background-color: #dddcdcfc;
+}
+
+.frame1 {
+  margin: 0 auto;
+  width: 432px;
+  height: 399px;
+  background-color: #ffffff;
+  box-shadow: 0px 0px 5px #ffffff;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.Cuadrante {
+  height: 70%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.parrafo1 {
+  color: #000000;
+  text-align: center;
+  margin-left: 35px;
+  margin-right: 35px;
+  font-size: 18px;
+}
+
+.parrafo2 {
+  width: 50%;
+  margin-bottom: 45px;
+}
+
+.button1 {
+  width: 201px;
+  height: 49px;
+  background-color: #ED6755;
+  border: none;
+  border-radius: 5px;
+  color: #ffffff;
+  font-size: 16px;
+}
+
+.button2 {
+  background-color: #1C1B5E;
+}
+
+.equis {
+  position: absolute;
+  top: 25px;
+  right: 25px;
+}
